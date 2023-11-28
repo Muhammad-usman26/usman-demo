@@ -1,4 +1,4 @@
 # usman-demo
 This is my first Git Repository.
 <br>
-Author -&copy;Usman Gujjar
+Author -&copy;Usman Gujjar (Mani)
